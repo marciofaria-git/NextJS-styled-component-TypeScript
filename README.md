@@ -436,6 +436,6 @@ This config work in older version of the NextJS with TypeScript or JavaScript
 
 If you have any questions or suggestions, leave a comment
 
-```
-
-```
+<h1 align="left">
+    <img alt="2" src="https://i.giphy.com/media/XreQmk7ETCak0/giphy.webp" />
+</h1>
