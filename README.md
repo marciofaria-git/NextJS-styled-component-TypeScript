@@ -392,7 +392,7 @@ got to the index.tsx and import our styles
 
 ```
 
-import \* as S from "@/styles/Home.styles";
+import * as S from "@/styles/Home.styles";
 
 ```
 
@@ -408,7 +408,7 @@ your index.tsx should look like this
 
 ```
 
-import \* as S from "@/styles/Home.styles";
+import * as S from "@/styles/Home.styles";
 
 export default function Home() {
 return (
@@ -425,6 +425,8 @@ And go to the page, and you can see the styles in our title
 <h1 align="center">
     <img alt="2" src="https://i.ibb.co/g3wCkH7/2.png" />
 </h1>
+
+Now you can delete the other files .css inside the project and start to use styled-components
 
 And this is your Next.js with styled-components using TypeScript
 if you want to know more about the styles-components go to the docs
