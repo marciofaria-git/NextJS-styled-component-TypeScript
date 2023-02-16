@@ -434,6 +434,8 @@ if you want to know more about the styles-components go to the docs
 
 This config work in older version of the NextJS with TypeScript or JavaScript
 
+If you have any questions or suggestions, leave a comment
+
 ```
 
 ```
